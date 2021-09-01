@@ -4,6 +4,7 @@ Essential readings on a variety of topics. All PDFs included here link to their 
 ## Computer Science
  - [Morris-Thompson Password Security](https://rist.tech.cornell.edu/6431papers/MorrisThompson1979.pdf)
  - [Mathematical Theory of Communication, Claude Shannon](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pd)
+ - [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.researchgate.net/publication/200085877_On_the_Criteria_To_Be_Used_in_Decomposing_Systems_into_Modules)
 
 ## Math
  - [Modern Convex Geometry](http://library.msri.org/books/Book31/files/ball.pdf)
