@@ -16,6 +16,7 @@ Essential readings on a variety of topics. All PDFs included here link to their 
 
 ## Math
  - [Modern Convex Geometry](http://library.msri.org/books/Book31/files/ball.pdf)
+ - Grigori Perelman's [three](https://arxiv.org/abs/math/0211159) [published](https://arxiv.org/abs/math/0303109) [papers](https://arxiv.org/abs/math/0307245) solving the Poincare Conjecture, the only one of the seven [Millennium Prize Problems](https://www.claymath.org/millennium-problems/millennium-prize-problems) to be solved thus far.
 
 ## Process Management
  - [Conway's Law](http://www.melconway.com/Home/pdf/committees.pdf)
