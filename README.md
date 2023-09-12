@@ -20,3 +20,6 @@ Essential readings on a variety of topics. All PDFs included here link to their 
 
 ## Process Management
  - [Conway's Law](http://www.melconway.com/Home/pdf/committees.pdf)
+
+## Science
+ - Structure of Scientific Revolutions, by Thomas Kuhn
