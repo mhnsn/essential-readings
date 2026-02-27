@@ -9,6 +9,7 @@ Essential readings on a variety of topics. All PDFs included here link to their 
  - [Game Theory and Turing-Completeness: Magic The Gathering](https://www.researchgate.net/publication/332590574_Magic_The_Gathering_is_Turing_Complete)
  - [Programming Languages and Code Quality on Github](https://www.researchgate.net/publication/269634115_A_large_scale_study_of_programming_languages_and_code_quality_in_github) - full text [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2903-5).
  - [Distributed Computing - Google's MapReduce](https://www.researchgate.net/publication/220851866_MapReduce_Simplified_Data_Processing_on_Large_Clusters) - full text [here](http://static.googleusercontent.com/media/research.google.com/es/us/archive/mapreduce-osdi04.pdf).
+ - The Cuckoo's Egg, by Clifford Stoll - A biographical account of a very early effort at counterterrorism/cybersecurity, involving the author's efforts to track down a hacker working for the KGB.
 
 ## Cryptography
  - [Morris-Thompson Password Security](https://rist.tech.cornell.edu/6431papers/MorrisThompson1979.pdf)
